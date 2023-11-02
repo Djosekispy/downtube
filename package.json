@@ -1,5 +1,5 @@
 {
-  "name": "downtube",
+  "name": "downtube-vic",
   "version": "1.0.0",
   "description": "To download a youtube video and playlist",
   "main": "index.js",
