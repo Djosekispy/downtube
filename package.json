@@ -1,18 +1,29 @@
 {
   "name": "downtube",
   "version": "1.0.0",
-  "description": "To Download Youtube videos, even a long playlist",
+  "description": "To download a youtube video and playlist",
   "main": "index.js",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "main": "index.js",
-    "test": "test.js"
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djosekispy/downtube.git"
   },
   "keywords": [
-    "youtube"
+    "youtube",
+    "download",
+    "video",
+    "playlist"
   ],
   "author": "Osvaldo Victor",
   "license": "ISC",
-  "dependencies": {
-    "python-shell": "^5.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Djosekispy/downtube/issues"
+  },
+  "homepage": "https://github.com/Djosekispy/downtube#readme"
 }
